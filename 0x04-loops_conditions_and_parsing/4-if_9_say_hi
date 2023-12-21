@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# this script uses while loop to display "Best School" 10 times
-
+# this script uses while loop to display "Best School" 8 times
+# hi on 9th time and back on 10th time
 cnt=0
 
 while [ $cnt -lt 10 ]
