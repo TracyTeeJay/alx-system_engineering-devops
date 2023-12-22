@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# script that kills an invincible infinite process
+
+pkill -f -SIGKILL 7-highlander

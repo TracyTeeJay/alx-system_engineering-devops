@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# script that displays a text indefinately
+
+cnt=0
+while [ cnt ]
+do
+echo "To infinity and beyond"
+sleep 2
+done
